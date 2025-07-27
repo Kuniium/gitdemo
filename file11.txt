@@ -5,3 +5,8 @@ Here's another line for file 11
 Here's the second line of text for file 11.
 >>>>>>> 6aa5f5d (Second line of text added)
 Seven Eleven HQ in Fort Worth
+   23  cat file11.txt
+   24  clear
+   25  git status
+   26  sudo git status
+   27  history 5 >> file11.txt
